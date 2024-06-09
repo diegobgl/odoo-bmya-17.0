@@ -7,7 +7,7 @@
     One application for this is to allow multiple delivery methods and using a rule by comuna instead
     of adding additional entropy to the module.
     """,
-    "version": "16.0.1.0",
+    "version": "17.0.1.0",
     "author": "Blanco Martín & Asociados",
     'license': "LGPL-3",
     "website": "http://blancomartin.cl",
